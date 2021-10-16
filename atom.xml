@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-16T16:06:19.020Z</updated>
+    <updated>2021-10-16T16:06:50.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://niuaa.github.io"/>
+    <link rel="self" href="https://niuaa.github.io/atom.xml"/>
+    <logo>https://niuaa.github.io/images/avatar.png</logo>
+    <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://niuaa.github.io/post/hello-gridea/</id>
+        <link href="https://niuaa.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
