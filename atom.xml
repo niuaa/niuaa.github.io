@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-16T18:33:18.145Z</updated>
+    <updated>2021-10-16T18:49:21.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -15,52 +15,52 @@
         <link href="https://niuaa.github.io/post/yi-xie-bi-zhi/">
         </link>
         <updated>2021-10-16T16:40:03.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>外面的</strong><br>
-https://www.pixiv.net/<br>
-https://joer.ru/<br>
-https://www.flickr.com/<br>
-https://www.pinterest.com/<br>
-https://orochiwallpaper.blogspot.com/<br>
-https://animenimania.blogspot.com/</p>
-<p><strong>网站</strong><br>
-http://wlppr.co/<br>
-https://www.pexels.com/zh-tw/<br>
-https://wallpapers.microsoft.design/<br>
-https://pixabay.com/zh/<br>
-https://www.skypixel.com/<br>
-https://colorhub.me/<br>
-https://bing.ioliu.cn/<br>
-https://unsplash.com/<br>
-https://www.zedge.net/ringtones-and-wallpapers<br>
-https://wallpapers.com/<br>
-http://alana.io/<br>
-https://www.wallpapermaiden.com/<br>
-http://simpledesktops.com/<br>
-http://justinmaller.com/<br>
-http://www.facets.la/<br>
-http://7-themes.com/<br>
-https://www.moviemania.io/<br>
-https://wallroom.io/<br>
-https://bz.zzzmh.cn/<br>
-https://wallpaperscraft.com/<br>
-https://wallhaven.cc/<br>
-https://www.everypixel.com/<br>
-http://wallpaperswide.com/<br>
-https://www.cgwallpapers.com/<br>
-https://wall.alphacoders.com/<br>
-https://wallpaperaccess.com/<br>
-https://hdqwalls.com/<br>
-https://wallpapersafari.com/<br>
-https://free4kwallpapers.com/<br>
-https://cutewallpaper.org/<br>
-http://wallpapers.filehostia.com/<br>
-https://wallpapercave.com/<br>
-https://wallpapertag.com/<br>
-https://wallpapercrafter.com/<br>
-https://www.xtrafondos.com/</p>
-<p><strong>png图片</strong><br>
-https://www.stickpng.com/<br>
-http://www.pngpix.com/</p>
+        <content type="html"><![CDATA[<p><strong><strong>外面的</strong></strong></p>
+<p><a href="https://www.pixiv.net/">https://www.pixiv.net/</a></p>
+<p><a href="https://joer.ru/">https://joer.ru/</a></p>
+<p><a href="https://www.flickr.com/">https://www.flickr.com/</a></p>
+<p><a href="https://www.pinterest.com/">https://www.pinterest.com/</a></p>
+<p><a href="https://orochiwallpaper.blogspot.com/">https://orochiwallpaper.blogspot.com/</a></p>
+<p><a href="https://animenimania.blogspot.com/">https://animenimania.blogspot.com/</a></p>
+<p><strong><strong>网站</strong></strong></p>
+<p><a href="http://wlppr.co/">http://wlppr.co/</a></p>
+<p><a href="https://www.pexels.com/zh-tw/">https://www.pexels.com/zh-tw/</a></p>
+<p><a href="https://wallpapers.microsoft.design/">https://wallpapers.microsoft.design/</a></p>
+<p><a href="https://pixabay.com/zh/">https://pixabay.com/zh/</a></p>
+<p><a href="https://www.skypixel.com/">https://www.skypixel.com/</a></p>
+<p><a href="https://colorhub.me/">https://colorhub.me/</a></p>
+<p><a href="https://bing.ioliu.cn/">https://bing.ioliu.cn/</a></p>
+<p><a href="https://unsplash.com/">https://unsplash.com/</a></p>
+<p><a href="https://www.zedge.net/ringtones-and-wallpapers">https://www.zedge.net/ringtones-and-wallpapers</a></p>
+<p><a href="https://wallpapers.com/">https://wallpapers.com/</a></p>
+<p><a href="http://alana.io/">http://alana.io/</a></p>
+<p><a href="https://www.wallpapermaiden.com/">https://www.wallpapermaiden.com/</a></p>
+<p><a href="http://simpledesktops.com/">http://simpledesktops.com/</a></p>
+<p><a href="http://justinmaller.com/">http://justinmaller.com/</a></p>
+<p><a href="http://www.facets.la/">http://www.facets.la/</a></p>
+<p><a href="http://7-themes.com/">http://7-themes.com/</a></p>
+<p><a href="https://www.moviemania.io/">https://www.moviemania.io/</a></p>
+<p><a href="https://wallroom.io/">https://wallroom.io/</a></p>
+<p><a href="https://bz.zzzmh.cn/">https://bz.zzzmh.cn/</a></p>
+<p><a href="https://wallpaperscraft.com/">https://wallpaperscraft.com/</a></p>
+<p><a href="https://wallhaven.cc/">https://wallhaven.cc/</a></p>
+<p><a href="https://www.everypixel.com/">https://www.everypixel.com/</a></p>
+<p><a href="http://wallpaperswide.com/">http://wallpaperswide.com/</a></p>
+<p><a href="https://www.cgwallpapers.com/">https://www.cgwallpapers.com/</a></p>
+<p><a href="https://wall.alphacoders.com/">https://wall.alphacoders.com/</a></p>
+<p><a href="https://wallpaperaccess.com/">https://wallpaperaccess.com/</a></p>
+<p><a href="https://hdqwalls.com/">https://hdqwalls.com/</a></p>
+<p><a href="https://wallpapersafari.com/">https://wallpapersafari.com/</a></p>
+<p><a href="https://free4kwallpapers.com/">https://free4kwallpapers.com/</a></p>
+<p><a href="https://cutewallpaper.org/">https://cutewallpaper.org/</a></p>
+<p><a href="http://wallpapers.filehostia.com/">http://wallpapers.filehostia.com/</a></p>
+<p><a href="https://wallpapercave.com/">https://wallpapercave.com/</a></p>
+<p><a href="https://wallpapertag.com/">https://wallpapertag.com/</a></p>
+<p><a href="https://wallpapercrafter.com/">https://wallpapercrafter.com/</a></p>
+<p><a href="https://www.xtrafondos.com/">https://www.xtrafondos.com/</a></p>
+<p><strong><strong>png图片</strong></strong></p>
+<p><a href="https://www.stickpng.com/">https://www.stickpng.com/</a></p>
+<p><a href="http://www.pngpix.com/">http://www.pngpix.com/</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -69,19 +69,19 @@ http://www.pngpix.com/</p>
         <link href="https://niuaa.github.io/post/xue-hui-shang-wang/">
         </link>
         <updated>2021-10-16T16:08:36.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>一些软件的GitHub</strong><br>
-https://github.com/Fndroid/clash_for_windows_pkg/releases<br>
-https://github.com/2dust/v2rayN</p>
-<p><strong>一些节点</strong><br>
-https://gitlab.com/Saraphine/free-for-subscriptions/<br>
-https://gitee.com/chenx58/clash/<br>
-https://sspool.nl/<br>
-http://a.luxury/（付费）</p>
-<p><strong>一些转换</strong><br>
-https://subcon.dlj.tf/<br>
-https://bianyuan.xyz/<br>
-https://sub-web.jadesong.net/<br>
-http://tool.chinaz.com/tools/urlencode.aspx</p>
+        <content type="html"><![CDATA[<p><strong><strong>一些软件的GitHub</strong></strong></p>
+<p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p>
+<p><a href="https://github.com/2dust/v2rayN">https://github.com/2dust/v2rayN</a></p>
+<p><strong><strong>一些节点</strong></strong></p>
+<p><a href="https://gitlab.com/Saraphine/free-for-subscriptions/">https://gitlab.com/Saraphine/free-for-subscriptions/</a></p>
+<p><a href="https://gitee.com/chenx58/clash/">https://gitee.com/chenx58/clash/</a></p>
+<p><a href="https://sspool.nl/">https://sspool.nl/</a></p>
+<p><a href="http://a.luxury/">http://a.luxury/</a>（付费）</p>
+<p><strong><strong>一些转换</strong></strong></p>
+<p><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></p>
+<p><a href="https://bianyuan.xyz/">https://bianyuan.xyz/</a></p>
+<p><a href="https://sub-web.jadesong.net/">https://sub-web.jadesong.net/</a></p>
+<p><a href="http://tool.chinaz.com/tools/urlencode.aspx">http://tool.chinaz.com/tools/urlencode.aspx</a></p>
 ]]></content>
     </entry>
     <entry>
