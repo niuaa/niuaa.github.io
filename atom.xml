@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-17T08:09:43.179Z</updated>
+    <updated>2021-10-17T08:18:15.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
+    <subtitle>建议电脑端享用</subtitle>
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
@@ -27,14 +28,7 @@
         <link href="https://niuaa.github.io/post/yi-xie-bi-zhi/">
         </link>
         <updated>2021-10-16T16:40:03.000Z</updated>
-        <content type="html"><![CDATA[<p><strong><strong>外面的</strong></strong></p>
-<p><a href="https://www.pixiv.net/">https://www.pixiv.net/</a></p>
-<p><a href="https://joer.ru/">https://joer.ru/</a></p>
-<p><a href="https://www.flickr.com/">https://www.flickr.com/</a></p>
-<p><a href="https://www.pinterest.com/">https://www.pinterest.com/</a></p>
-<p><a href="https://orochiwallpaper.blogspot.com/">https://orochiwallpaper.blogspot.com/</a></p>
-<p><a href="https://animenimania.blogspot.com/">https://animenimania.blogspot.com/</a></p>
-<p><strong><strong>网站</strong></strong></p>
+        <content type="html"><![CDATA[<p><strong><strong>网站</strong></strong></p>
 <p><a href="http://wlppr.co/">http://wlppr.co/</a></p>
 <p><a href="https://www.pexels.com/zh-tw/">https://www.pexels.com/zh-tw/</a></p>
 <p><a href="https://wallpapers.microsoft.design/">https://wallpapers.microsoft.design/</a></p>
@@ -73,6 +67,13 @@
 <p><strong><strong>png图片</strong></strong></p>
 <p><a href="https://www.stickpng.com/">https://www.stickpng.com/</a></p>
 <p><a href="http://www.pngpix.com/">http://www.pngpix.com/</a></p>
+<p><strong><strong>外面的</strong></strong></p>
+<p><a href="https://www.pixiv.net/">https://www.pixiv.net/</a></p>
+<p><a href="https://joer.ru/">https://joer.ru/</a></p>
+<p><a href="https://www.flickr.com/">https://www.flickr.com/</a></p>
+<p><a href="https://www.pinterest.com/">https://www.pinterest.com/</a></p>
+<p><a href="https://orochiwallpaper.blogspot.com/">https://orochiwallpaper.blogspot.com/</a></p>
+<p><a href="https://animenimania.blogspot.com/">https://animenimania.blogspot.com/</a></p>
 ]]></content>
     </entry>
     <entry>
