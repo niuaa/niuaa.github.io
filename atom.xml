@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://niuaa.github.io</id>
+    <id>http://localhost:4000</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-16T18:50:19.497Z</updated>
+    <updated>2021-10-17T06:28:15.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://niuaa.github.io"/>
-    <link rel="self" href="https://niuaa.github.io/atom.xml"/>
-    <logo>https://niuaa.github.io/images/avatar.png</logo>
-    <icon>https://niuaa.github.io/favicon.ico</icon>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
     <entry>
+        <title type="html"><![CDATA[自用软件]]></title>
+        <id>http://localhost:4000/post/zi-yong-ruan-jian/</id>
+        <link href="http://localhost:4000/post/zi-yong-ruan-jian/">
+        </link>
+        <updated>2021-10-17T06:26:51.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>上网app</strong></p>
+<p><a href="http://www.123pan.com/s/LTtA-g7OP3">http://www.123pan.com/s/LTtA-g7OP3</a></p>
+<p><strong>图片app</strong></p>
+<p><a href="http://www.123pan.com/s/LTtA-F7OP3">http://www.123pan.com/s/LTtA-F7OP3</a></p>
+<p><strong>浏览器app</strong></p>
+<p><a href="http://www.123pan.com/s/LTtA-Y7OP3">http://www.123pan.com/s/LTtA-Y7OP3</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一些壁纸]]></title>
-        <id>https://niuaa.github.io/post/yi-xie-bi-zhi/</id>
-        <link href="https://niuaa.github.io/post/yi-xie-bi-zhi/">
+        <id>http://localhost:4000/post/yi-xie-bi-zhi/</id>
+        <link href="http://localhost:4000/post/yi-xie-bi-zhi/">
         </link>
         <updated>2021-10-16T16:40:03.000Z</updated>
         <content type="html"><![CDATA[<p><strong><strong>外面的</strong></strong></p>
@@ -65,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学会上网]]></title>
-        <id>https://niuaa.github.io/post/xue-hui-shang-wang/</id>
-        <link href="https://niuaa.github.io/post/xue-hui-shang-wang/">
+        <id>http://localhost:4000/post/xue-hui-shang-wang/</id>
+        <link href="http://localhost:4000/post/xue-hui-shang-wang/">
         </link>
         <updated>2021-10-16T16:08:36.000Z</updated>
         <content type="html"><![CDATA[<p><strong><strong>一些软件的GitHub</strong></strong></p>
@@ -86,8 +100,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://niuaa.github.io/post/hello-gridea/</id>
-        <link href="https://niuaa.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
