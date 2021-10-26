@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-23T05:25:51.274Z</updated>
+    <updated>2021-10-26T05:36:30.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -87,6 +87,7 @@
         <content type="html"><![CDATA[<p><strong><strong>一些软件的GitHub</strong></strong></p>
 <p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p>
 <p><a href="https://github.com/2dust/v2rayN">https://github.com/2dust/v2rayN</a></p>
+<p><a href="https://www.zhuguodong.com/?id=452">https://www.zhuguodong.com/?id=452</a></p>
 <p><strong><strong>一些节点</strong></strong></p>
 <p><a href="https://gitlab.com/Saraphine/free-for-subscriptions/">https://gitlab.com/Saraphine/free-for-subscriptions/</a></p>
 <p><a href="https://gitee.com/chenx58/clash/">https://gitee.com/chenx58/clash/</a></p>
