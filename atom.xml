@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-27T15:00:27.336Z</updated>
+    <updated>2021-10-27T16:01:12.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
+    <entry>
+        <title type="html"><![CDATA[音乐下载]]></title>
+        <id>https://niuaa.github.io/post/yin-le-xia-zai/</id>
+        <link href="https://niuaa.github.io/post/yin-le-xia-zai/">
+        </link>
+        <updated>2021-10-27T15:32:24.000Z</updated>
+        <content type="html"><![CDATA[<p>论坛</p>
+<p><a href="https://www.hifini.com/">https://www.hifini.com/</a></p>
+<p>合集<br>
+<a href="https://heji.ru/235.html">https://heji.ru/235.html</a></p>
+<p><a href="https://bbs.jubt.live/thread-1944.htm">https://bbs.jubt.live/thread-1944.htm</a></p>
+<p>在线网址</p>
+<p><a href="http://music.y444.cn/">http://music.y444.cn/</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自用软件]]></title>
         <id>https://niuaa.github.io/post/zi-yong-ruan-jian/</id>
