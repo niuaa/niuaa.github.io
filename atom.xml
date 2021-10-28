@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4001</id>
+    <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-28T02:43:30.154Z</updated>
+    <updated>2021-10-28T02:47:22.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4001"/>
-    <link rel="self" href="http://localhost:4001/atom.xml"/>
+    <link rel="alternate" href="https://niuaa.github.io"/>
+    <link rel="self" href="https://niuaa.github.io/atom.xml"/>
     <subtitle>建议电脑端享用</subtitle>
-    <logo>http://localhost:4001/images/avatar.png</logo>
-    <icon>http://localhost:4001/favicon.ico</icon>
+    <logo>https://niuaa.github.io/images/avatar.png</logo>
+    <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
     <entry>
         <title type="html"><![CDATA[没事逛逛]]></title>
-        <id>http://localhost:4001/post/mei-shi-guang-guang/</id>
-        <link href="http://localhost:4001/post/mei-shi-guang-guang/">
+        <id>https://niuaa.github.io/post/mei-shi-guang-guang/</id>
+        <link href="https://niuaa.github.io/post/mei-shi-guang-guang/">
         </link>
         <updated>2021-10-28T02:39:55.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://bbs.zsxwz.com/">https://bbs.zsxwz.com/</a></p>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[杂七杂八]]></title>
-        <id>http://localhost:4001/post/za-qi-za-ba/</id>
-        <link href="http://localhost:4001/post/za-qi-za-ba/">
+        <id>https://niuaa.github.io/post/za-qi-za-ba/</id>
+        <link href="https://niuaa.github.io/post/za-qi-za-ba/">
         </link>
         <updated>2021-10-27T16:01:20.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://heji.ru/">https://heji.ru/</a></p>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[音乐下载]]></title>
-        <id>http://localhost:4001/post/yin-le-xia-zai/</id>
-        <link href="http://localhost:4001/post/yin-le-xia-zai/">
+        <id>https://niuaa.github.io/post/yin-le-xia-zai/</id>
+        <link href="https://niuaa.github.io/post/yin-le-xia-zai/">
         </link>
         <updated>2021-10-27T15:32:24.000Z</updated>
         <content type="html"><![CDATA[<p>论坛</p>
@@ -57,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[自用软件]]></title>
-        <id>http://localhost:4001/post/zi-yong-ruan-jian/</id>
-        <link href="http://localhost:4001/post/zi-yong-ruan-jian/">
+        <id>https://niuaa.github.io/post/zi-yong-ruan-jian/</id>
+        <link href="https://niuaa.github.io/post/zi-yong-ruan-jian/">
         </link>
         <updated>2021-10-17T06:26:51.000Z</updated>
         <content type="html"><![CDATA[<p>tip:电脑端浏览才可见文件名</p>
@@ -69,8 +69,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一些壁纸]]></title>
-        <id>http://localhost:4001/post/yi-xie-bi-zhi/</id>
-        <link href="http://localhost:4001/post/yi-xie-bi-zhi/">
+        <id>https://niuaa.github.io/post/yi-xie-bi-zhi/</id>
+        <link href="https://niuaa.github.io/post/yi-xie-bi-zhi/">
         </link>
         <updated>2021-10-16T16:40:03.000Z</updated>
         <content type="html"><![CDATA[<p><strong><strong>网站</strong></strong></p>
@@ -125,8 +125,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学会上网]]></title>
-        <id>http://localhost:4001/post/xue-hui-shang-wang/</id>
-        <link href="http://localhost:4001/post/xue-hui-shang-wang/">
+        <id>https://niuaa.github.io/post/xue-hui-shang-wang/</id>
+        <link href="https://niuaa.github.io/post/xue-hui-shang-wang/">
         </link>
         <updated>2021-10-16T16:08:36.000Z</updated>
         <content type="html"><![CDATA[<p><strong><strong>一些软件的GitHub</strong></strong></p>
@@ -147,8 +147,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4001/post/hello-gridea/</id>
-        <link href="http://localhost:4001/post/hello-gridea/">
+        <id>https://niuaa.github.io/post/hello-gridea/</id>
+        <link href="https://niuaa.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
