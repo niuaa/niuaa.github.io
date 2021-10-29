@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-29T16:20:17.852Z</updated>
+    <updated>2021-10-29T16:32:36.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://niuaa.github.io/post/tou-tou-kan/">
         </link>
         <updated>2021-10-29T16:07:06.000Z</updated>
-        <content type="html"><![CDATA[<p>杂<br>
-<a href="https://bbs.leyuz.net/t/192371">https://bbs.leyuz.net/t/192371</a></p>
+        <content type="html"><![CDATA[<p><a href="https://bbs.leyuz.net/t/192371">https://bbs.leyuz.net/t/192371</a></p>
 <p><a href="https://www.43dh.com/news/edit/id//95.html">https://www.43dh.com/news/edit/id//95.html</a></p>
 <p><a href="https://shanfu.lanzoux.com/b010jha5i">https://shanfu.lanzoux.com/b010jha5i</a></p>
 <p><a href="https://sam.lanzoui.com/b0fe972ad">https://sam.lanzoui.com/b0fe972ad</a> 密码：1219 1515</p>
