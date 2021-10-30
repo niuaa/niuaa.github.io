@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-30T06:55:27.763Z</updated>
+    <updated>2021-10-30T08:27:09.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -165,6 +165,7 @@
 <p><a href="https://bianyuan.xyz/">https://bianyuan.xyz/</a></p>
 <p><a href="https://sub-web.jadesong.net/">https://sub-web.jadesong.net/</a></p>
 <p><a href="http://tool.chinaz.com/tools/urlencode.aspx">http://tool.chinaz.com/tools/urlencode.aspx</a></p>
+<p><a href="http://tool.chinaz.com/tools/base64.aspx">http://tool.chinaz.com/tools/base64.aspx</a></p>
 ]]></content>
     </entry>
     <entry>
