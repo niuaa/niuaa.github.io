@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-10-30T08:29:23.321Z</updated>
+    <updated>2021-10-30T10:00:18.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -152,8 +152,8 @@
         <content type="html"><![CDATA[<p><strong><strong>一些软件的GitHub</strong></strong></p>
 <p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p>
 <p><a href="https://github.com/2dust/v2rayN">https://github.com/2dust/v2rayN</a></p>
-<p><a href="https://www.zhuguodong.com/?id=452">https://www.zhuguodong.com/?id=452</a></p>
 <p><a href="https://github.com/bannedbook/fanqiang/wiki/">https://github.com/bannedbook/fanqiang/wiki/</a></p>
+<p><a href="https://www.zhuguodong.com/?id=452">https://www.zhuguodong.com/?id=452</a></p>
 <p><strong><strong>一些节点</strong></strong></p>
 <p><a href="https://gitlab.com/Saraphine/free-for-subscriptions/">https://gitlab.com/Saraphine/free-for-subscriptions/</a></p>
 <p><a href="https://gitee.com/chenx58/clash/">https://gitee.com/chenx58/clash/</a></p>
@@ -162,7 +162,6 @@
 <p><strong><strong>一些转换</strong></strong></p>
 <p><a href="https://sub.789.st/">https://sub.789.st/</a></p>
 <p><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></p>
-<p><a href="https://bianyuan.xyz/">https://bianyuan.xyz/</a></p>
 <p><a href="https://sub-web.jadesong.net/">https://sub-web.jadesong.net/</a></p>
 <p><a href="http://tool.chinaz.com/tools/base64.aspx">http://tool.chinaz.com/tools/base64.aspx</a></p>
 <p><a href="http://tool.chinaz.com/tools/urlencode.aspx">http://tool.chinaz.com/tools/urlencode.aspx</a></p>
