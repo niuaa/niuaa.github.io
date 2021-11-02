@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-01T13:56:43.151Z</updated>
+    <updated>2021-11-01T14:34:27.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows]]></title>
+        <id>https://niuaa.github.io/post/windows/</id>
+        <link href="https://niuaa.github.io/post/windows/">
+        </link>
+        <updated>2021-11-01T14:09:28.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html">https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html</a></p>
+<p><a href="https://www.cnblogs.com/pipci/p/13653352.html">https://www.cnblogs.com/pipci/p/13653352.html</a></p>
+<p><a href="https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html">https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html</a></p>
+<p><a href="https://zhidao.baidu.com/question/367118053689966292.html">https://zhidao.baidu.com/question/367118053689966292.html</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电影]]></title>
         <id>https://niuaa.github.io/post/dian-ying/</id>
@@ -83,6 +95,7 @@
 <p><a href="http://huxiaogou.ys168.com/">http://huxiaogou.ys168.com/</a></p>
 <p><a href="https://xydh.fun/">https://xydh.fun/</a></p>
 <p><a href="https://imyshare.com/">https://imyshare.com/</a></p>
+<p><a href="https://iao.su">https://iao.su</a></p>
 ]]></content>
     </entry>
     <entry>
