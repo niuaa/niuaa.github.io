@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-02T17:30:43.781Z</updated>
+    <updated>2021-11-02T17:33:00.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -57,12 +57,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[偷偷看]]></title>
+        <title type="html"><![CDATA[偷偷用]]></title>
         <id>https://niuaa.github.io/post/tou-tou-kan/</id>
         <link href="https://niuaa.github.io/post/tou-tou-kan/">
         </link>
         <updated>2021-10-29T16:07:06.000Z</updated>
-        <content type="html"><![CDATA[<p>软件<br>
+        <content type="html"><![CDATA[<p><strong>软件</strong><br>
+<a href="https://www.lxapk.com/">https://www.lxapk.com/</a><br>
 <a href="https://www.bsh.me/">https://www.bsh.me/</a><br>
 <a href="https://www.423down.com/">https://www.423down.com/</a><br>
 <a href="https://www.ghxi.com/">https://www.ghxi.com/</a><br>
