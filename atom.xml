@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-07T10:27:57.785Z</updated>
+    <updated>2021-11-08T17:30:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
+    <entry>
+        <title type="html"><![CDATA[思路分享]]></title>
+        <id>https://niuaa.github.io/post/si-lu-fen-xiang/</id>
+        <link href="https://niuaa.github.io/post/si-lu-fen-xiang/">
+        </link>
+        <updated>2021-11-08T17:10:53.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://wujinzy.com/">http://wujinzy.com/</a><br>
+<a href="http://xiangkanzy.com/">http://xiangkanzy.com/</a><br>
+<a href="https://www.qianyicp.com/jiexi/index.php?url=">https://www.qianyicp.com/jiexi/index.php?url=</a><br>
+<a href="https://www.showdoc.com.cn/mytheme/2779989134071820">https://www.showdoc.com.cn/mytheme/2779989134071820</a><br>
+<a href="https://blog.51cto.com/u_15320607/3253002">https://blog.51cto.com/u_15320607/3253002</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追剧]]></title>
         <id>https://niuaa.github.io/post/dian-ying/</id>
@@ -55,6 +68,7 @@
 <p><a href="https://www.cnblogs.com/pipci/p/13653352.html">https://www.cnblogs.com/pipci/p/13653352.html</a></p>
 <p><a href="https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html">https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html</a></p>
 <p><a href="https://zhidao.baidu.com/question/367118053689966292.html">https://zhidao.baidu.com/question/367118053689966292.html</a></p>
+<p><a href="https://baijiahao.baidu.com/s?id=1624177901710998490">https://baijiahao.baidu.com/s?id=1624177901710998490</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -89,7 +103,7 @@
 <p><a href="https://www.lanzoui.com/b821355">https://www.lanzoui.com/b821355</a></p>
 <p><a href="https://docs.qq.com/doc/DVUJkemtKTUxEd2Zo">https://docs.qq.com/doc/DVUJkemtKTUxEd2Zo</a> 密码：0000</p>
 <p><a href="https://dnnh.lanzoui.com/b00oqz24h">https://dnnh.lanzoui.com/b00oqz24h</a> 密码：Dnnh</p>
-<p><a href="6KeG6aKRDQphcWRhdi5uZXQNCm1hb3BpYW4ubGENCmh0dHBzOi8vbmV0Zmxhdi5jb20vDQpodHRwczovL2NuLnBvcm5odWIuY29tLw0KaHR0cHM6Ly93d3cuMTQxcHB2LmNvbS8NCmh0dHBzOi8vd3d3LjE0MWF2LmNvbS8NCmh0dHA6Ly8xOGF2LmFuZHlnb2QuY29tLw0KaHR0cDovL3d3dy5yaXJpYWkxMS5jb20vDQp3d3cuZWV1c3NhLmNvbQ0KaHR0cHM6Ly9naXRodWIuY29tL2R6MTIzNHNhLy0NCmh0dHBzOi8vZ2l0aHViLmNvbS82Njg4c2UvLQ0KaHR0cHM6Ly9naXRodWIuY29tL2xhb3NlZ2UvLQ0KaHR0cDovL2xjMTQ3LmNvbS8NCnd3dy5yZW50aXJlbi5jb20NCmh0dHA6Ly93d3cueHZpZGVvcy5jb20vDQpodHRwczovL3d3dy54bnh4LmNvbS8NCmh0dHA6Ly93d3cudGFvaHVhenUuY29tDQpodHRwczovL3Q2NnkuY29tLw0KaHR0cDovL2VsNDguY29tOjIwNDgvDQpodHRwczovL3d3dy5oYW9zZTUyODguY29tLw0KaHR0cHM6Ly93d3cuamtmb3J1bS5uZXQvDQpodHRwczovL3d3dy5sYW5nc2UuY2MvDQpodHRwczovLzVnLnloeW1wLmNvbS8NCmh0dHBzOi8veGNoaW5hLmNvLw0KaHR0cHM6Ly9tb3V6aGFuLmN5b3UvDQoNCuWbvueJhw0KaHR0cHM6Ly90d2l0dGVyLmNvbS94cGVyZmVjdHB1c3N5eD9sYW5nPWRlDQpodHRwczovL2Nvc3h1eGkuY2x1Yi8NCmh0dHBzOi8vd3d3LmZ1bGl0dS5jYy8NCmh0dHBzOi8vdmlwMi5qb29teGVyLmZ1bi8NCmh0dHBzOi8vd3d3LmNvc2Vyc2V0cy5jb20vMS9tYWluDQpodHRwczovL3VkaXJ0eS5jb20vDQpodHRwOi8vd3d3LnduYWNnLm9yZy8NCmh0dHBzOi8vamFwcHlkb2xscy5uZXQvDQpodHRwczovL2UtaGVudGFpLm9yZy8NCmh0dHBzOi8vd3d3Lnlhb2NpeXVhbi5tZW4vDQpodHRwczovL2RlcGRheS5pbmZvLw0KaHR0cHM6Ly9oaXR4aG90LmNvbS8NCmh0dHBzOi8vdHVtYmxyZ2FsbGVyeS54eXovDQpodHRwczovL2ZlaXRpYW44OC5jb20vDQpodHRwczovL3ZpLmhlbnRhaS1jb3NwbGF5cy5jb20vDQoNCuadgg0KZnVsaS5sdg0KY2cudHYNCmZ1bGkuc3UNCmh0dHBzOi8vcWluZ3NlLm9uZS8NCmh0dHBzOi8vdGhlcG9ybmR1ZGUuY29tLw0KaHR0cHM6Ly90aGVwb3JuLmNvbS8NCmh0dHBzOi8vdGhlcG9ybm1hcC5jb20v">https://base64jiema</a></p>
+<p><a href="6KeG6aKRCmFxZGF2Lm5ldAptYW9waWFuLmxhCmh0dHBzOi8vbmV0Zmxhdi5jb20vCmh0dHBzOi8vY24ucG9ybmh1Yi5jb20vCmh0dHBzOi8vd3d3LjE0MXBwdi5jb20vCmh0dHBzOi8vd3d3LjE0MWF2LmNvbS8KaHR0cDovLzE4YXYuYW5keWdvZC5jb20vCmh0dHA6Ly93d3cucmlyaWFpMTEuY29tLwp3d3cuZWV1c3NhLmNvbQpodHRwczovL3d3dy5ra3p5NS5jb20vCmh0dHBzOi8vZ2l0aHViLmNvbS9kejEyMzRzYS8tCmh0dHBzOi8vZ2l0aHViLmNvbS82Njg4c2UvLQpodHRwczovL2dpdGh1Yi5jb20vbGFvc2VnZS8tCmh0dHA6Ly9sYzE0Ny5jb20vCnd3dy5yZW50aXJlbi5jb20KaHR0cDovL3d3dy54dmlkZW9zLmNvbS8KaHR0cHM6Ly93d3cueG54eC5jb20vCmh0dHA6Ly93d3cudGFvaHVhenUuY29tCmh0dHBzOi8vdDY2eS5jb20vCmh0dHA6Ly9lbDQ4LmNvbToyMDQ4LwpodHRwczovL3d3dy5oYW9zZTUyODguY29tLwpodHRwczovL3d3dy5qa2ZvcnVtLm5ldC8KaHR0cHM6Ly93d3cubGFuZ3NlLmNjLwpodHRwczovLzVnLnloeW1wLmNvbS8KaHR0cHM6Ly94Y2hpbmEuY28vCmh0dHBzOi8vbW91emhhbi5jeW91LwoK5Zu+54mHCmh0dHBzOi8vdHdpdHRlci5jb20veHBlcmZlY3RwdXNzeXg/bGFuZz1kZQpodHRwczovL2Nvc3h1eGkuY2x1Yi8KaHR0cHM6Ly93d3cuZnVsaXR1LmNjLwpodHRwczovL3ZpcDIuam9vbXhlci5mdW4vCmh0dHBzOi8vd3d3LmNvc2Vyc2V0cy5jb20vMS9tYWluCmh0dHBzOi8vdWRpcnR5LmNvbS8KaHR0cDovL3d3dy53bmFjZy5vcmcvCmh0dHBzOi8vamFwcHlkb2xscy5uZXQvCmh0dHBzOi8vZS1oZW50YWkub3JnLwpodHRwczovL3d3dy55YW9jaXl1YW4ubWVuLwpodHRwczovL2RlcGRheS5pbmZvLwpodHRwczovL2hpdHhob3QuY29tLwpodHRwczovL3R1bWJscmdhbGxlcnkueHl6LwpodHRwczovL2ZlaXRpYW44OC5jb20vCmh0dHBzOi8vdmkuaGVudGFpLWNvc3BsYXlzLmNvbS8KCuadggpmdWxpLmx2CmNnLnR2CmZ1bGkuc3UKaHR0cHM6Ly9xaW5nc2Uub25lLwpodHRwczovL3RoZXBvcm5kdWRlLmNvbS8KaHR0cHM6Ly90aGVwb3JuLmNvbS8KaHR0cHM6Ly90aGVwb3JubWFwLmNvbS8=">https://base64jiema</a></p>
 <p><a href="https://wwi.lanzoui.com/b01co0t3a">https://wwi.lanzoui.com/b01co0t3a</a> 密码：6666</p>
 <p><a href="https://lanzoui.com/b020er3cj">https://lanzoui.com/b020er3cj</a></p>
 <p><a href="https://lixiaohan.lanzoux.com/b0c9psm6d">https://lixiaohan.lanzoux.com/b0c9psm6d</a></p>
@@ -232,38 +246,6 @@
 <p><a href="https://sub-web.jadesong.net/">https://sub-web.jadesong.net/</a></p>
 <p><a href="http://tool.chinaz.com/tools/base64.aspx">http://tool.chinaz.com/tools/base64.aspx</a></p>
 <p><a href="http://tool.chinaz.com/tools/urlencode.aspx">http://tool.chinaz.com/tools/urlencode.aspx</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://niuaa.github.io/post/hello-gridea/</id>
-        <link href="https://niuaa.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
