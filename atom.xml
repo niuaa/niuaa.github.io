@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-12T16:21:06.001Z</updated>
+    <updated>2021-11-20T16:04:15.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -11,13 +11,22 @@
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
     <entry>
-        <title type="html"><![CDATA[思路分享]]></title>
-        <id>https://niuaa.github.io/post/si-lu-fen-xiang/</id>
-        <link href="https://niuaa.github.io/post/si-lu-fen-xiang/">
+        <title type="html"><![CDATA[解析]]></title>
+        <id>https://niuaa.github.io/post/jie-xi/</id>
+        <link href="https://niuaa.github.io/post/jie-xi/">
         </link>
         <updated>2021-11-08T17:10:53.000Z</updated>
         <content type="html"><![CDATA[<p><a href="http://wujinzy.com/">http://wujinzy.com/</a><br>
 <a href="http://xiangkanzy.com/">http://xiangkanzy.com/</a><br>
+<a href="http://tiankongzy.com/">http://tiankongzy.com/</a><br>
+<a href="http://www.timecn.cn/">http://www.timecn.cn/</a><br>
+<a href="https://tool.yijingying.com/video/">https://tool.yijingying.com/video/</a><br>
+<a href="https://jx.qin0.cn/?url=">https://jx.qin0.cn/?url=</a><br>
+<a href="https://jx.nonitv.cn/?url">https://jx.nonitv.cn/?url=</a><br>
+<a href="https://www.flvcd.com/">https://www.flvcd.com/</a><br>
+<a href="https://tool.lu/videoparser/">https://tool.lu/videoparser/</a><br>
+<a href="https://www.kkzy5.com">https://www.kkzy5.com</a><br>
+<a href="https://kdk.xzylm.com/">https://kdk.xzylm.com/</a><br>
 <a href="https://www.qianyicp.com/jiexi/index.php?url=">https://www.qianyicp.com/jiexi/index.php?url=</a><br>
 <a href="https://www.showdoc.com.cn/mytheme/2779989134071820">https://www.showdoc.com.cn/mytheme/2779989134071820</a><br>
 <a href="https://blog.51cto.com/u_15320607/3253002">https://blog.51cto.com/u_15320607/3253002</a></p>
@@ -25,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[追剧]]></title>
-        <id>https://niuaa.github.io/post/dian-ying/</id>
-        <link href="https://niuaa.github.io/post/dian-ying/">
+        <id>https://niuaa.github.io/post/zui-ju/</id>
+        <link href="https://niuaa.github.io/post/zui-ju/">
         </link>
         <updated>2021-11-01T13:34:55.000Z</updated>
         <content type="html"><![CDATA[<p><strong>在线</strong><br>
