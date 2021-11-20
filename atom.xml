@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-20T16:22:18.271Z</updated>
+    <updated>2021-11-20T17:28:02.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 牛啊の窝</rights>
+    <entry>
+        <title type="html"><![CDATA[随机图片]]></title>
+        <id>https://niuaa.github.io/post/sui-ji-tu-pian/</id>
+        <link href="https://niuaa.github.io/post/sui-ji-tu-pian/">
+        </link>
+        <updated>2021-11-20T17:25:50.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://api.yimian.xyz/img">https://api.yimian.xyz/img</a><br>
+<a href="https://api.yimian.xyz/img?type=wallpaper">https://api.yimian.xyz/img?type=wallpaper</a><br>
+<a href="https://api.ixiaowai.cn/gqapi/gqapi.php">https://api.ixiaowai.cn/gqapi/gqapi.php</a><br>
+<a href="https://api.yimian.xyz/img?type=moe">https://api.yimian.xyz/img?type=moe</a><br>
+<a href="https://api.ixiaowai.cn/api/api.php">https://api.ixiaowai.cn/api/api.php</a><br>
+<a href="https://source.unsplash.com/random">https://source.unsplash.com/random</a><br>
+<a href="https://api.mz-moe.cn/img.php">https://api.mz-moe.cn/img.php</a><br>
+<a href="https://img.paulzzh.com/touhou/random">https://img.paulzzh.com/touhou/random</a><br>
+<a href="https://api.vvhan.com/api/acgimg">https://api.vvhan.com/api/acgimg</a><br>
+<a href="https://cdn.seovx.com/d/?mom=302">https://cdn.seovx.com/d/?mom=302</a><br>
+<a href="https://www.dmoe.cc/random.php">https://www.dmoe.cc/random.php</a><br>
+<a href="https://api.ghser.com/random/api.php">https://api.ghser.com/random/api.php</a><br>
+<a href="https://img.xjh.me/random_img.php?type=bg&amp;ctype=acg&amp;return=302">https://img.xjh.me/random_img.php?type=bg&amp;ctype=acg&amp;return=302</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解析]]></title>
         <id>https://niuaa.github.io/post/jie-xi/</id>
@@ -232,32 +253,6 @@
 <a href="https://www.pinterest.com/">https://www.pinterest.com/</a><br>
 <a href="https://orochiwallpaper.blogspot.com/">https://orochiwallpaper.blogspot.com/</a><br>
 <a href="https://animenimania.blogspot.com/">https://animenimania.blogspot.com/</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偷偷上网]]></title>
-        <id>https://niuaa.github.io/post/xue-hui-shang-wang/</id>
-        <link href="https://niuaa.github.io/post/xue-hui-shang-wang/">
-        </link>
-        <updated>2021-10-16T16:08:36.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>一些软件的GitHub</strong></p>
-<p><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a></p>
-<p><a href="https://github.com/2dust/v2rayN">https://github.com/2dust/v2rayN</a></p>
-<p><a href="https://github.com/bannedbook/fanqiang/wiki/">https://github.com/bannedbook/fanqiang/wiki/</a></p>
-<p><a href="https://www.zhuguodong.com/?id=452">https://www.zhuguodong.com/?id=452</a></p>
-<p><a href="https://zgq-inc.github.io/overthefirewall/">https://zgq-inc.github.io/overthefirewall/</a></p>
-<p><strong>一些节点</strong></p>
-<p><a href="https://gitlab.com/Saraphine/free-for-subscriptions/">https://gitlab.com/Saraphine/free-for-subscriptions/</a></p>
-<p><a href="https://gitee.com/chenx58/clash/">https://gitee.com/chenx58/clash/</a></p>
-<p><a href="https://sspool.nl/">https://sspool.nl/</a></p>
-<p><a href="https://free.kingfu.cf">https://free.kingfu.cf</a></p>
-<p><a href="http://a.luxury/">http://a.luxury/</a>（付费）</p>
-<p><strong>一些转换</strong></p>
-<p><a href="https://sub.789.st/">https://sub.789.st/</a></p>
-<p><a href="https://subcon.dlj.tf/">https://subcon.dlj.tf/</a></p>
-<p><a href="https://sub-web.jadesong.net/">https://sub-web.jadesong.net/</a></p>
-<p><a href="http://tool.chinaz.com/tools/base64.aspx">http://tool.chinaz.com/tools/base64.aspx</a></p>
-<p><a href="http://tool.chinaz.com/tools/urlencode.aspx">http://tool.chinaz.com/tools/urlencode.aspx</a></p>
 ]]></content>
     </entry>
 </feed>
