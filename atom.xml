@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-11-26T04:58:33.033Z</updated>
+    <updated>2021-11-26T05:04:37.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -96,11 +96,17 @@
         <link href="https://niuaa.github.io/post/windows/">
         </link>
         <updated>2021-11-01T13:09:28.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html">https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html</a></p>
-<p><a href="https://www.cnblogs.com/pipci/p/13653352.html">https://www.cnblogs.com/pipci/p/13653352.html</a></p>
-<p><a href="https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html">https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html</a></p>
-<p><a href="https://zhidao.baidu.com/question/367118053689966292.html">https://zhidao.baidu.com/question/367118053689966292.html</a></p>
-<p><a href="https://baijiahao.baidu.com/s?id=1624177901710998490">https://baijiahao.baidu.com/s?id=1624177901710998490</a></p>
+        <content type="html"><![CDATA[<p>打开方式<br>
+<a href="https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html">https://jingyan.baidu.com/article/455a9950935bd5e06627789a.html</a><br>
+双击打开网页<br>
+<a href="https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html">https://jingyan.baidu.com/article/ca41422f04e1891eae99ed15.html</a><br>
+安全中心<br>
+<a href="https://zhidao.baidu.com/question/367118053689966292.html">https://zhidao.baidu.com/question/367118053689966292.html</a><br>
+PPT高清图<br>
+<a href="https://baijiahao.baidu.com/s?id=1624177901710998490">https://baijiahao.baidu.com/s?id=1624177901710998490</a><br>
+更新<br>
+<a href="https://baijiahao.baidu.com/s?id=1699156469236985780">https://baijiahao.baidu.com/s?id=1699156469236985780</a><br>
+<a href="https://www.cnblogs.com/pipci/p/13653352.html">https://www.cnblogs.com/pipci/p/13653352.html</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -195,10 +201,12 @@
         <link href="https://niuaa.github.io/post/zi-yong-ruan-jian/">
         </link>
         <updated>2021-10-17T06:26:51.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>电脑端浏览才可见文件名</strong></p>
-<p><a href="http://www.123pan.com/s/LTtA-g7OP3"><strong>上网app</strong></a></p>
-<p><a href="http://www.123pan.com/s/LTtA-F7OP3"><strong>图片app</strong></a></p>
-<p><a href="http://www.123pan.com/s/LTtA-Y7OP3"><strong>浏览器app</strong></a></p>
+        <content type="html"><![CDATA[<p><strong>上网app</strong><br>
+<a href="http://www.123pan.com/s/LTtA-g7OP3">http://www.123pan.com/s/LTtA-g7OP3</a></p>
+<p><strong>图片app</strong><br>
+<a href="http://www.123pan.com/s/LTtA-F7OP3">http://www.123pan.com/s/LTtA-F7OP3)</a></p>
+<p><strong>浏览器app</strong><br>
+<a href="http://www.123pan.com/s/LTtA-Y7OP3">http://www.123pan.com/s/LTtA-Y7OP3</a></p>
 ]]></content>
     </entry>
     <entry>
