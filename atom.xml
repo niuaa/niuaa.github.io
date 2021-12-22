@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2021-12-22T14:45:37.045Z</updated>
+    <updated>2021-12-22T14:53:02.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
@@ -469,9 +469,9 @@ http://weixin.qq.com/?version=63</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒+1]]></title>
-        <id>https://niuaa.github.io/post/lan-1/</id>
-        <link href="https://niuaa.github.io/post/lan-1/">
+        <title type="html"><![CDATA[懒2]]></title>
+        <id>https://niuaa.github.io/post/lan-2/</id>
+        <link href="https://niuaa.github.io/post/lan-2/">
         </link>
         <updated>2021-12-18T12:35:49.000Z</updated>
         <content type="html"><![CDATA[<p>书格<a href="https://new.shuge.org/meet/topic/20306/">https://new.shuge.org/meet/topic/20306/</a></p>
@@ -513,9 +513,9 @@ fffuel：设设设计用的小工具集合</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒得整理]]></title>
-        <id>https://niuaa.github.io/post/lan-de-zheng-li/</id>
-        <link href="https://niuaa.github.io/post/lan-de-zheng-li/">
+        <title type="html"><![CDATA[懒1]]></title>
+        <id>https://niuaa.github.io/post/lan-1/</id>
+        <link href="https://niuaa.github.io/post/lan-1/">
         </link>
         <updated>2021-12-06T15:51:22.000Z</updated>
         <content type="html"><![CDATA[<p>开源站<a href="https://opensourcelibs.com/">https://opensourcelibs.com/</a><br>
@@ -936,9 +936,9 @@ PPT高清图<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好站]]></title>
-        <id>https://niuaa.github.io/post/za-qi-za-ba/</id>
-        <link href="https://niuaa.github.io/post/za-qi-za-ba/">
+        <title type="html"><![CDATA[大佬大佬]]></title>
+        <id>https://niuaa.github.io/post/da-lao-da-lao/</id>
+        <link href="https://niuaa.github.io/post/da-lao-da-lao/">
         </link>
         <updated>2021-10-27T16:01:20.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://heji.ru/">https://heji.ru/</a></p>
