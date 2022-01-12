@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niuaa.github.io</id>
     <title>牛啊の窝</title>
-    <updated>2022-01-11T08:30:49.764Z</updated>
+    <updated>2022-01-12T09:04:12.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niuaa.github.io"/>
     <link rel="self" href="https://niuaa.github.io/atom.xml"/>
-    <subtitle>发现此站请低调使用哦</subtitle>
+    <subtitle>若知道了本站，低调使用，请勿宣传。</subtitle>
     <logo>https://niuaa.github.io/images/avatar.png</logo>
     <icon>https://niuaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 牛啊の窝</rights>
